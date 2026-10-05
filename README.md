@@ -75,7 +75,9 @@ Runtime → Change runtime type → GPU (T4)
 Run all cells top to bottom. The dataset downloads automatically via kagglehub.
 
 📁 Repo Structure
+
 ├── animal-faces-detection.ipynb       # Full notebook: data, model, training, evaluation, Grad-CAM
+
 └── README.md
 
 
